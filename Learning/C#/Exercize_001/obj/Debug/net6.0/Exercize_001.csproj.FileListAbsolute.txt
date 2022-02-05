@@ -1,0 +1,15 @@
+C:\Users\gipar\Google Диск\Работа\git\Learning\C#\Exercize_001\bin\Debug\net6.0\Exercize_001.exe
+C:\Users\gipar\Google Диск\Работа\git\Learning\C#\Exercize_001\bin\Debug\net6.0\Exercize_001.deps.json
+C:\Users\gipar\Google Диск\Работа\git\Learning\C#\Exercize_001\bin\Debug\net6.0\Exercize_001.runtimeconfig.json
+C:\Users\gipar\Google Диск\Работа\git\Learning\C#\Exercize_001\bin\Debug\net6.0\Exercize_001.dll
+C:\Users\gipar\Google Диск\Работа\git\Learning\C#\Exercize_001\bin\Debug\net6.0\ref\Exercize_001.dll
+C:\Users\gipar\Google Диск\Работа\git\Learning\C#\Exercize_001\bin\Debug\net6.0\Exercize_001.pdb
+C:\Users\gipar\Google Диск\Работа\git\Learning\C#\Exercize_001\obj\Debug\net6.0\Exercize_001.csproj.AssemblyReference.cache
+C:\Users\gipar\Google Диск\Работа\git\Learning\C#\Exercize_001\obj\Debug\net6.0\Exercize_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gipar\Google Диск\Работа\git\Learning\C#\Exercize_001\obj\Debug\net6.0\Exercize_001.AssemblyInfoInputs.cache
+C:\Users\gipar\Google Диск\Работа\git\Learning\C#\Exercize_001\obj\Debug\net6.0\Exercize_001.AssemblyInfo.cs
+C:\Users\gipar\Google Диск\Работа\git\Learning\C#\Exercize_001\obj\Debug\net6.0\Exercize_001.csproj.CoreCompileInputs.cache
+C:\Users\gipar\Google Диск\Работа\git\Learning\C#\Exercize_001\obj\Debug\net6.0\Exercize_001.dll
+C:\Users\gipar\Google Диск\Работа\git\Learning\C#\Exercize_001\obj\Debug\net6.0\ref\Exercize_001.dll
+C:\Users\gipar\Google Диск\Работа\git\Learning\C#\Exercize_001\obj\Debug\net6.0\Exercize_001.pdb
+C:\Users\gipar\Google Диск\Работа\git\Learning\C#\Exercize_001\obj\Debug\net6.0\Exercize_001.genruntimeconfig.cache
